@@ -1,0 +1,14 @@
+
+project_id = "dlvyuogjkvfrxljfrfak"
+
+[functions.analyze-food]
+verify_jwt = false
+
+[functions.ai-food-analysis]
+verify_jwt = false
+
+[functions.ai-chatbot]
+verify_jwt = false
+
+[functions.barcode-lookup]
+verify_jwt = false
